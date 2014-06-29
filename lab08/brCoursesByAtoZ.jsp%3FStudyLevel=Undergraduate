@@ -1,0 +1,3687 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html40/loose.dtd">
+<HTML lang="en">
+
+
+
+<HEAD>
+<TITLE>UNSW Handbook - Browse Undergraduate Courses by Faculty</TITLE>
+
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<META http-equiv="expires" content="0">
+<META http-equiv="Pragma" content="no-cache">
+<META http-equiv="Cache-Control" content="no-cache">
+<META name="ROBOTS" content="NOINDEX,NOFOLLOW">
+<META name="MSSmartTagsPreventParsing" content="TRUE" /> 
+<META name="DC.Date" content="2007-10-25" scheme="ISO8601" >
+<META name="DC.Publisher" content="University of New South Wales" >
+<META name="EDNA.Audience" content="Students" >
+<META name="DC.Creator" content="NSS extract" >
+<META name="DC.Subject" content="handbook, handbooks, catalog, catalogue, course, subject, program, programme, plan, major, minor, degree, award, study area, courses, undergraduate courses, postgraduate courses, subject area, faculty courses, what to study, choosing a program, choosing a programme, UNSW courses, courses at UNSW, search courses, UNSW programme, UNSW plan, my courses, student courses, browse courses, careers, university courses, education, course search, general education courses, find program, find course, find plan" >
+<META name="keywords" content="handbook, handbooks, catalog, catalogue, course, subject, program, programme, plan, major, minor, degree, award, study area, courses, undergraduate courses, postgraduate courses, subject area, faculty courses, what to study, choosing a program, choosing a programme, UNSW courses, courses at UNSW, search courses, UNSW programme, UNSW plan, my courses, student courses, browse courses, careers, university courses, education, course search, general education courses, find program, find course, find plan" >
+<META name="EDNA.Approver" content="Registrar & Deputy Principal" >
+<META name="DC.Source" content="NSS extract" >
+<META name="DC.Rights" content="http://www.unsw.edu.au/help/disclaimer.html" >
+<META name="DC.Title" content=" Virtual Handbook - Program Search " >
+<META name="DC.Type" content="Virtual Handbook" >
+<META name="DC.Identifier" content=" http://www.unsw.edu.au/handbook/ " >
+<META name="DC.Language" content="en" scheme="RFC1766" >
+<META name="DC.Description" content="Students can use the Virtual Handbook to learn more about the requirements for their Program (Degree), or find courses (subjects) they would like to enrol in " >
+<META name="description" content="Students can use the Virtual Handbook to learn more about the requirements for their Program (Degree), or find courses (subjects) they would like to enrol in " >
+<META name="EDNA.Version" content="Version 1.1" >
+<META name="DC.Format" content="text/html" scheme="IMT" >
+   <link rel="stylesheet" href="http://www.handbook.unsw.edu.au/styles/2012/hbCSS/hbStandard.css" type="text/css" media="all" charset="utf-8">
+   <link rel="stylesheet" href="http://www.handbook.unsw.edu.au/styles/2012/hbCSS/hbProgram.css" type="text/css" media="all" charset="utf-8">
+   <link rel="stylesheet" href="http://www.handbook.unsw.edu.au/styles/2012/hbCSS/hbPrint.css" type="text/css" media="print" charset="utf-8">
+   <link rel="stylesheet" href="http://www.handbook.unsw.edu.au/styles/2012/hbCSS/advSearch.css" type="text/css" media="all" charset="utf-8">
+   <script src="http://www.handbook.unsw.edu.au/scripts/hbJavascript/hbStandard.js" type="text/javascript" charset="utf-8"></script>
+
+   <!--[if lt IE 7]>
+   <style type="text/css" media="all">
+   * html img { behavior: url('http://www.handbook.unsw.edu.au/scripts/hbJavascript/pngbehavior.htc');
+ }
+   </style>
+   <![endif]-->
+
+</HEAD>
+
+
+
+
+
+
+<body id="hbBody" class="undergraduate">
+   <a name="GOTOP"></a>
+   <div id="hbMainBlock">
+   <div id="hbTitleBlock">
+   <a href="http://www.unsw.edu.au/" title="UNSW Homepage"><img id="hbUNSWscript" src="http://www.handbook.unsw.edu.au/images/hbImages/hbUNSWscript.png" alt="The University of New South Wales" style="width:257px; height:9px;" /></a>
+   </div>
+   <div id="hbHeaderBlock">
+   <h1><a href="http://www.unsw.edu.au/" title="UNSW Homepage"><img src="http://www.handbook.unsw.edu.au/images/hbImages/hbUNSWlogo.png" alt="go to UNSW home page" style="width:71px; height:17px;" /></a></h1>
+   <h2><a href="/2012/index.html"><img src="http://www.handbook.unsw.edu.au/images/2012/hbBanners/hbBannerUG.gif" alt="Handbook Home " title="Handbook Home"/></a></h2>
+   <ul>
+   <li><a href="http://www.handbook.unsw.edu.au/general/2012/SSAPO/contacts.html" target="_blank">Contacts</a></li>
+   <li><a href="http://www.library.unsw.edu.au/">Library</a></li>
+   <li><a href="https://my.unsw.edu.au">myUNSW</a></li>
+   <li><a href="http://www.elearning.unsw.edu.au/">e-Learning</a></li>
+   </ul>
+   </div>
+
+
+
+<div id="hbContentBlock">
+<!-- Menu Zone -->
+    
+
+
+
+ <link rel="stylesheet" href="http://www.handbook.unsw.edu.au/scripts/jquery-tooltip/jquery.tooltip.css" />
+ <script src="http://www.handbook.unsw.edu.au/scripts/jquery-tooltip/lib/jquery.js" type="text/javascript"></script>
+<script src="http://www.handbook.unsw.edu.au/scripts/jquery-tooltip/lib/jquery.bgiframe.js" type="text/javascript"></script>
+<script src="http://www.handbook.unsw.edu.au/scripts/jquery-tooltip/lib/jquery.dimensions.js" type="text/javascript"></script>
+<script src="http://www.handbook.unsw.edu.au/scripts/jquery-tooltip/jquery.tooltip.js" type="text/javascript"></script>
+        <SCRIPT type="text/javascript">
+     
+       $(function() {
+       $('#tltip, #tltip1, #tltip2').tooltip({track: true, delay: 0, fade: 50, extraClass: "tlHelp"});
+      });
+    
+      </SCRIPT>
+
+
+<STYLE>
+a.acrp:link{color:black; text-decoration:none;}
+a.acrp:visited{color:black; text-decoration:none;}
+a.acrp:hover{color:green; text-decoration:none;}
+
+</STYLE>
+
+     <div id="hbLeftNav">
+     <h5>Table of Contents</h5>
+     <div id="careerDiv" style="line-height: 2px;"></div>
+     <ul>
+
+<li><A href="/vbook2012/brProgramsByAtoZ.jsp?StudyLevel=Undergraduate" >Programs A-Z</A></li>
+<li><A href="/vbook2012/brProgramsByFaculty.jsp?StudyLevel=Undergraduate" >Programs by Faculty</A></li>
+<li><A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate" >Courses A-Z</A></li>
+<li><A href="/vbook2012/brCoursesBySubjectArea.jsp?StudyLevel=Undergraduate" >Courses by Subject Area</A></li>
+<li><A href="/vbook2012/brSpecialisationsByAtoZ.jsp?StudyLevel=Undergraduate" >Specialisations A-Z</A></li>
+<li><A href="http://www.handbook.unsw.edu.au/areaofinterest/2012/areaofinterest.html?StudyLevel=Undergraduate" >Areas of Interest</A></li>
+<li><A href="http://www.handbook.unsw.edu.au/careerfields/2012/careers.html?StudyLevel=Undergraduate" >Careers</A></li>
+<li><A href="http://www.handbook.unsw.edu.au/general/2012/SSAPO/GeneralRules.html?StudyLevel=Undergraduate" >General Rules &amp; Student Information</A></li>
+<li><A href="http://www.handbook.unsw.edu.au/faculties/2012/facultymain.html?StudyLevel=Undergraduate" >Faculties &amp; Schools</A></li>
+<li><a href="http://timetable.unsw.edu.au/">Class Timetable</a></li>
+
+<li id="hbGE"><A href="http://www.handbook.unsw.edu.au/generaleducation/2012/generaleducation.html?StudyLevel=Undergraduate" >General Education</A></li>
+</ul>
+
+    <img src="http://www.handbook.unsw.edu.au/images/hbImages/hbDivider.gif" alt="List divider" />
+    <ul class="strong">
+    <li><a href="http://www.handbook.unsw.edu.au/2012/index.html">Handbook Home</a></li>
+    <li><a href="http://www.handbook.unsw.edu.au/general/2012/SSAPO/glossary.html" title="View a list of descriptions of words used in the Handbook">Glossary</a></li>
+    </ul>
+    <img src="http://www.handbook.unsw.edu.au/images/hbImages/hbDivider.gif" alt="List divider" />
+    <div id="hbDirectFind">
+<!-- start of quick search -->
+<FORM name="quickSearch" method="post" action="/vbook2012/quickResults.jsp"  onsubmit='if(document.quickSearch.QuickQuery.value.length==0){alert("Please enter a Program or Course code"); document.quickSearch.q.focus();return false;}'>
+    <fieldset>
+    <legend></legend>
+    <input type="hidden" name="Type" value="program">
+    <input type="hidden" name="Type" value="course">
+    <input type="hidden" name="Counter" value="1">
+    <input type="hidden" name="StudyLevel" value="Undergraduate">
+    <input class="field" type="text" name="QuickQuery" id="q" onfocus="if(this.value=='Find'){this.value=''};" onblur="if(this.value==''){this.value='Find'};" value="Find" /><br />
+    <input class="button" type="submit" value="go" />
+    </fieldset>
+    </form>
+
+
+<p>Use this search only if you have <strong>an exact</strong> code for a <strong><a href="#" class="acrp"><span id="tltip" title="At UNSW a degree is called PROGRAM. Each program is identified by a 4 digit numeric code (e.g. 3403 - Bachelor of Arts).">Program</span></a></strong>,<strong><a href="#" class="acrp"> <span id="tltip1" title="PLAN is a sequence of study within a program. It is a systems term that includes majors, minors, honours, etc. At UNSW, plans are identified by a five-digit alphabetical prefix and a five-digit alpha or numeric suffix e.g. SENGA13648 refers to the full-time Software Engineering plan.">Plan</span></a></strong>, or<strong><a href="#" class="acrp"> <span id="tltip2" title="COURSE is a subject, an individual study unit offered within a program with a specific unit of credit (UOC) weighting. For example, MATH1131 - Mathematics 1A, 6UoC. UNSW courses codes are made up of a four-digit alphabetic prefix, identifying the specialisation area, and a four-digit numeric suffix e.g. ECON1101 - Microeconomics 1.">Course</span></a></strong>, e.g. 3400, ACCTA13502, ACCT1501 or ACCT*.<br />Use the main search box (Search the UNSW Handbook) if you do not have an exact code and want to use a keyword instead.</p>
+    </div>
+    </div>
+<!-- end of quick search -->
+
+<!-- End of Menu Zone -->
+
+<div id="hbMain" class="hbProgram">
+
+  <TABLE width="95%" border="0" cellpadding="0" cellspacing="0">
+   <tr>
+   <td class="cell1"><span class="programHeading"><img src="http://www.handbook.unsw.edu.au/images/course_icon2008.gif" alt=" " width="137" height="45" border="0"></span></td>
+   <td align="right" valign="top" nowrap class="cell3">
+   <table border=0 cellpadding=0 cellspacing=0 summary="Holds link to initiate page printing"><tr><td valign="middle" nowrap class="printPage"><a href="http://www.handbook.unsw.edu.au/cgi-bin/printer_friendly.pl" style="font-size:9px;">PRINT THIS PAGE</a></td>
+   </tr></table>
+   </td>
+   </tr>
+   <tr>
+   <td width="80%" align="center" valign="top" class="cell2"><span class= "program">Courses A to Z</span></td>
+   </tr>
+   <tr>
+	<TD colspan="3"  class="mainInformation">
+        <BR><BR><DIV class="listOptions">
+	<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=All">All</A>
+<SPAN style="color:red;">A</SPAN>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=B">B</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=C">C</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=D">D</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=E">E</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=F">F</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=G">G</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=H">H</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=I">I</A>&nbsp;J&nbsp;K&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=L">L</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=M">M</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=N">N</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=O">O</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=P">P</A>&nbsp;Q&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=R">R</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=S">S</A>&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=T">T</A>&nbsp;U&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=V">V</A>&nbsp;W&nbsp;X&nbsp;Y&nbsp;<A href="/vbook2012/brCoursesByAtoZ.jsp?StudyLevel=Undergraduate&descr=Z">Z</A>&nbsp;
+
+			</DIV><BR><BR><A name="a"></A>
+			<TABLE width="90%" cellpadding="2" cellspacing="1" border="0" class="tabluatedInfo">
+				<CAPTION class="white">Courses beginning with the letter A</CAPTION>
+				<TR>
+					<TH width="15%" align="left" class="tabulatedHeading" scope="col" style="margin-bottom:10px">Code</TH>
+					<TH width="65%" align="left" class="tabulatedHeading" scope="col" style="margin-bottom:10px">Course Title</TH>
+					<TH width="20%" align="left" class="tabulatedHeading" scope="col" style="margin-bottom:10px">Units of Credit</TH>
+				</TR>
+
+
+							<TR>
+								<TD class="" align="left">ACCT1501</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT1501.html">Accounting and Financial Management 1A </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACCT1511</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT1511.html">Accounting and Financial Management 1B</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACCT2101</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT2101.html">Industrial Training Experience 1 (Co-op) </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACCT2522</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT2522.html">Management Accounting 1</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACCT2542</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT2542.html">Corporate Financial Reporting and Analysis</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACCT3563</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT3563.html">Issues in Financial Reporting and Analysis</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACCT3573</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT3573.html">Issues in Financial Reporting and Analysis (Honours)</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACCT3583</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT3583.html">Management Accounting 2</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACCT3585</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT3585.html">E-Business: Strategy and Processes </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACCT3593</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT3593.html">Management Accounting 2 (Honours)</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACCT3601</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT3601.html">Global Financial Reporting and Analysis</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACCT3610</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT3610.html">Business Analysis and Valuation </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACCT3708</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT3708.html">Auditing and Assurance Services</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACCT3718</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT3718.html">Auditing and Assurance Services (Honours)</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACCT4794</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT4794.html">Thesis (Accounting)</A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACCT4809</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT4809.html">Current Developments in Auditing Research</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACCT4851</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT4851.html">Current Developments in Accounting Research - Financial</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACCT4852</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT4852.html">Current Developments in Accounting Research - Managerial</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACCT4897</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT4897.html">Seminar in Research Methodology</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACCT8691</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT8691.html">Industrial Training 1</A></TD>
+								<TD class="evenTableCell" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACCT8692</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT8692.html">Industrial Training 2</A></TD>
+								<TD class="" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACCT8693</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACCT8693.html">Industrial Training 3</A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACTL1001</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL1001.html">Actuarial Studies and Commerce </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACTL2001</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL2001.html">Financial Mathematics </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACTL2002</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL2002.html">Probability and Statistics for Actuaries </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACTL2003</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL2003.html">Stochastic Models for Actuarial Applications </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACTL2100</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL2100.html">Industrial Training 1 (Co-op) </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACTL2101</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL2101.html">Industrial Training Experience 1 (Co-op) </A></TD>
+								<TD class="evenTableCell" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACTL3001</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL3001.html">Actuarial Statistics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACTL3002</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL3002.html">Life Insurance and Superannuation Models </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACTL3003</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL3003.html">Insurance Risk Models </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACTL3004</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL3004.html">Financial Economics for Insurance and Superannuation </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACTL3005</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL3005.html">Superannuation and Retirement Benefits </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACTL3100</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL3100.html">Industrial Training 2 (Co-op) </A></TD>
+								<TD class="evenTableCell" align="left">15</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACTL4000</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL4000.html">Thesis (Actuarial Studies) </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACTL4001</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL4001.html">Actuarial Theory and Practice A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACTL4002</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL4002.html">Actuarial Theory and Practice B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACTL4003</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL4003.html">Research Topics in Actuarial Studies </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACTL4004</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL4004.html">Thesis (Actuarial Studies) (Part Time) </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ACTL4100</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL4100.html">Industrial Training 3 (Co-op) </A></TD>
+								<TD class="evenTableCell" align="left">15</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ACTL4303</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ACTL4303.html">Asset-Liability Management </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AERO3110</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AERO3110.html">Aerospace Design </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AERO3200</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AERO3200.html">Aerospace Systems and Avionics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AERO3410</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AERO3410.html">Aerospace Structures </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AERO3630</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AERO3630.html">Aerodynamics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AERO3640</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AERO3640.html">Flight Mechanics and Dynamics </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AERO3650</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AERO3650.html">Aerospace Propulsion and Experimentation </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AERO4110</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AERO4110.html">Aerospace Design Project A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AERO4120</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AERO4120.html">Aerospace Design Project B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AERO4410</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AERO4410.html">Advanced Aerospace Structures and Vibrations </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AERO4500</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AERO4500.html">Space and Air Transport Operations </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ANAT1521</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT1521.html">Anatomy for Medical Science </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ANAT1551</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT1551.html">Introductory Anatomy for Health & Exercise Science</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ANAT2111</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT2111.html">Introductory Anatomy</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ANAT2241</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT2241.html">Histology: Basic and Systematic</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ANAT2341</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT2341.html">Embryology: Early and Systematic Development</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ANAT2451</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT2451.html">Functional Anatomy for Health and Exercise Science </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ANAT2511</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT2511.html">Fundamentals of Anatomy</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ANAT3121</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT3121.html">Visceral Anatomy</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ANAT3131</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT3131.html">Functional Anatomy 1</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ANAT3141</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT3141.html">Functional Anatomy 2</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ANAT3212</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT3212.html">Microscopy in Research</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ANAT3231</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT3231.html">Cell Biology</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ANAT3411</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ANAT3411.html">Neuroanatomy</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH0006</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH0006.html">Special Program (Architecture) </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1101</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1101.html">Architectural Design Studio 1 </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1102</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1102.html">Architectural Design Studio 2 </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1121</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1121.html">Architectural History and Theory 1 </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1142</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1142.html">Architectural Communications </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1161</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1161.html">Environment 1 </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1162</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1162.html">Structures & Construction 1 </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1201</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1201.html">Architectural Design Studio 3 </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1202</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1202.html">Architectural Design Studio 4 </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1221</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1221.html">Architectural History and Theory 2 </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1222</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1222.html">Architectural History and Theory 2 </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1261</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1261.html">Structures and Construction 2 </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1301</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1301.html">Architectural Design Studio 5 </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1302</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1302.html">Architectural Design Studio 6 </A></TD>
+								<TD class="evenTableCell" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1322</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1322.html">Architectural History and Theory 3 </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1361</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1361.html">Environment 2 </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1390</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1390.html">Digital Representation Studio </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1391</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1391.html">Digital Computation Studio </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1392</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1392.html">Digital Collaboration Studio </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1393</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1393.html">Graduation Project </A></TD>
+								<TD class="evenTableCell" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1394</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1394.html">Honours Studio </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1395</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1395.html">Honours Research Project </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1398</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1398.html">Research Project 1</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1399</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1399.html">Research Project 2</A></TD>
+								<TD class="evenTableCell" align="left">9</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1406</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1406.html">Elective Design Studio </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARCH1495</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1495.html">Honours Research Thesis 1 </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARCH1496</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARCH1496.html">Honours Research Thesis 2 </A></TD>
+								<TD class="" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1005</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1005.html">Thinking, Writing and Making Dance </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1006</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1006.html">Introduction to Movement Practices </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1010</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1010.html">The Life of Words </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1030</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1030.html">Introduction to English: Literary Genres</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1031</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1031.html">Literature in English: Early Modern to Modern </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1060</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1060.html">Introduction to Film Studies </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1062</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1062.html">Hollywood Film: Industry, Technology, Aesthetics </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1090</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1090.html">Media, Culture and Everyday Life </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1091</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1091.html">Media, Society, Politics</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1120</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1120.html">Introduction to Theatre and Performance Studies </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1121</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1121.html">Reading Performance </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1150</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1150.html">Introduction to Americas Studies </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1190</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1190.html">Australian Legends: Introducing Australian Studies </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1210</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1210.html">Concepts of Asia </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1211</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1211.html">Australia's Asian Context </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1240</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1240.html">Environment and Society: Introduction </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1270</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1270.html">The Big Picture: An Introduction to History </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1271</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1271.html">The History Matrix: The Making of the Modern World </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1300</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1300.html">Understanding Science, Technology and Society </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1301</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1301.html">Cosmos and Culture: Science in History </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1302</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1302.html">Science: Good, Bad & Bogus: Philosophy of Science </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1360</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1360.html">Introducing Moral, Social & Political Philosophy </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1361</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1361.html">Knowledge and Reality: Introduction to Philosophy </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1362</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1362.html">Philosophy: Thinking About Reasoning </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1450</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1450.html">Introductory Chinese A for Non-Background Students </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1451</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1451.html">Introductory Chinese B for Non-Background Students </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1452</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1452.html">Introductory Chinese for Background Speakers A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1453</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1453.html">Introductory Chinese for Background Speakers B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1480</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1480.html">Introductory French A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1481</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1481.html">Introductory French B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1510</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1510.html">Introductory German A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1511</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1511.html">Introductory German B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1540</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1540.html">Introductory Greek A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1541</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1541.html">Introductory Greek B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1570</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1570.html">Introductory Spanish A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1571</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1571.html">Introductory Spanish B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1600</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1600.html">Introductory Indonesian A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1601</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1601.html">Introductory Indonesian B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1620</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1620.html">Introductory Italian 1 </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1621</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1621.html">Introductory Italian 2 </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1630</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1630.html">Introductory Japanese A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1631</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1631.html">Introductory Japanese B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1632</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1632.html">Introductory Japanese A for HSC Beginners </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1660</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1660.html">Introductory Korean A </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1661</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1661.html">Introductory Korean B </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1690</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1690.html">The Structure of Language </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1691</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1691.html">The Use of Language </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1750</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1750.html">Introduction to Development Studies </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1751</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1751.html">Development Studies: Poor World, Rich World </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1780</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1780.html">Concepts of Europe</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1781</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1781.html">Australia's European Context </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1810</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1810.html">International Relations: Conventions & Challenges </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1811</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1811.html">International Relations: Continuity & Change </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1840</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1840.html">Introduction to Australian Politics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1870</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1870.html">Introduction to Sociology and Anthropology </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS1871</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1871.html">Relationship: Foundational Concept </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS1900</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS1900.html">Gendered Worlds: Intro to Women's & Gender Studies </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2031</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2031.html">Australian Literature </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2032</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2032.html">Creative Writing </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2033</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2033.html">Poetry and Poetics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2034</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2034.html">Shakespeare and Renaissance Drama </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2035</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2035.html">American Literature: Past and Present </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2036</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2036.html">Modernism: Text and Screen </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2037</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2037.html">Reading Women's Writing </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2038</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2038.html">The Novel </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2061</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2061.html">Contemporary Approaches to Cinema </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2062</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2062.html">Australian Cinema and Television </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2063</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2063.html">National Cinemas </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2064</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2064.html">Film Genres </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2065</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2065.html">Working with Image and Sound </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2090</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2090.html">Publics and Publishing in Transition</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2091</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2091.html">Mobile Cultures </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2092</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2092.html">Global Media: Markets, Flows and Cultures </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2093</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2093.html">Media Uses: Practices of Cultural Consumption </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2120</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2120.html">Writing for Performance </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2121</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2121.html">Critical Perspectives on Theatre and Performance </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2122</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2122.html">Performance Production 1: Staging the Text </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2123</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2123.html">Live Entertainment and Popular Culture </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2124</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2124.html">Staging Australia </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2125</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2125.html">Theories of Acting and Performing </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2210</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2210.html">India and South Asia </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2211</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2211.html">East Asia </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2212</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2212.html">Southeast Asia </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2213</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2213.html">Asian Popular Culture </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2215</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2215.html">Religion in World History </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2216</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2216.html">Politics and Security in Contemporary Asia </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2240</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2240.html">Environment, Sustainability and Development </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2241</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2241.html">Peak Carbon: Climate Change and Energy Policy </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2242</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2242.html">Environmental Controversy in Australia </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2243</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2243.html">Waste and Society </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2244</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2244.html">Rethinking Wildlife: Philosophy, Biodiversity, Extinction </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2270</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2270.html">Australia 1788-1900: The Fatal Shore? </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2271</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2271.html">Australia 1901-2008:From Federation to the Apology </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2272</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2272.html">Europe in Turmoil: From Renaissance to Revolutions </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2273</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2273.html">Towards war and revolution: 19th century Europe </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2278</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2278.html">Slavery and Freedom: US History 1750-1890 </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2279</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2279.html">Colonial Latin America </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2282</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2282.html">Rome </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2283</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2283.html">Classical Greece </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2284</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2284.html">Europe in the Middle Ages </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2285</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2285.html">Holocaust and Genocide in Historical Perspective </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2301</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2301.html">Computers, Brains and Minds </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2302</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2302.html">The Scientific Revolution: Science and Religion </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2303</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2303.html">On Drugs: Pharmaceuticals, Medicine, and Culture </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2304</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2304.html">In Sickness and in Health: A History of Medicine </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2305</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2305.html">Science & Religion: The Galileo Affair </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2306</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2306.html">Technology, Civilization and Culture </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2307</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2307.html">Darwin and History: Culture, Science, Medicine </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2360</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2360.html">Truth and Belief </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2361</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2361.html">Philosophy of Mind </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2363</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2363.html">Chinese Philosophy </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2367</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2367.html">Aesthetics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2372</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2372.html">Power, Tradition and Subjectivity </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2374</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2374.html">Ways of Reasoning </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2375</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2375.html">Logic </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2376</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2376.html">Nietzsche and Philosophy </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2382</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2382.html">Philosophy of Religion </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2383</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2383.html">Theories in Moral Philosophy </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2384</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2384.html">Theories in Political Philosophy </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2450</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2450.html">Intermediate Chinese A </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2451</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2451.html">Intermediate Chinese B </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2452</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2452.html">Chinese English Translation </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2453</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2453.html">Chinese Cinema </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2455</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2455.html">Gender in Contemporary China </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2456</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2456.html">Introduction to Chinese Musical Culture </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2458</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2458.html">Along the Silk Road: Conquerors, Traders and Explorers </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2459</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2459.html">Chinese Performing Arts </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2480</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2480.html">Intermediate French A </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2481</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2481.html">Intermediate French B </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2482</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2482.html">French Cinema and Society </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2484</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2484.html">The Lives of the Impressionists and Other Artists </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2485</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2485.html">Exploring French Linguistics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2510</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2510.html">Intermediate German A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2511</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2511.html">Intermediate German B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2542</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2542.html">Gods, Heroines and Heroes in Greek Myth </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2570</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2570.html">Intermediate Spanish A </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2571</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2571.html">Intermediate Spanish B </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2600</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2600.html">Intermediate Indonesian A </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2601</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2601.html">Intermediate Indonesian B </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2602</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2602.html">Islam in Asia </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2630</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2630.html">Intermediate Japanese A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2631</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2631.html">Intermediate Japanese B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2632</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2632.html">Contemporary Japan </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2633</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2633.html">A Cultural Survey of Japan: From Gods to Gadgets </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2660</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2660.html">Intermediate Korean A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2661</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2661.html">Intermediate Korean B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2662</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2662.html">Korea at a Glance </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2690</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2690.html">Semantics and Pragmatics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2691</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2691.html">Social Contexts of Language Learning and Teaching </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2692</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2692.html">Generative Grammar </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2693</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2693.html">Psycholinguistics </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2694</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2694.html">Phonology: Theory and Description </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2696</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2696.html">Contemporary English Grammar </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2697</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2697.html">The History of English Language </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2750</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2750.html">Modern Latin America: Dependency and Development </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2751</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2751.html">International Development</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2752</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2752.html">Local Politics of Development</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2780</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2780.html">The New Europe </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2781</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2781.html">End of Empire </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2782</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2782.html">Political Culture and Ideologies in Modern Europe </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2810</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2810.html">International Relations in East Asia </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2811</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2811.html">International Law: Power, Politics and Ideology </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2812</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2812.html">The Politics of International Organisation </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2813</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2813.html">International Security </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2814</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2814.html">International Relations Theories and Concepts </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2840</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2840.html">Politics of Human Rights in Australia </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2842</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2842.html">Politics of Globalisation </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2843</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2843.html">Politics and Business </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2845</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2845.html">Sex, Human Rights and Justice </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2846</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2846.html">Multiculturalism in Political Theory </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2848</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2848.html">Language, Politics and Society </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2870</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2870.html">Global Citizens, Justice and Civil Society</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2871</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2871.html">Power and Powerlessness </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2872</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2872.html">Living and dying </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2873</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2873.html">People and Place </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2874</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2874.html">Senses: Feeling and Knowing </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2875</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2875.html">Society and Desire </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2876</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2876.html">Understanding the Self </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2877</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2877.html">Technologies, Culture, Society </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2900</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2900.html">Feminism: A Transnational History </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2905</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2905.html">Frida Kahlo: Performing Passion and Pain </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS2906</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2906.html">History of Sexuality </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS2909</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS2909.html">Women in Southeast Asian Societies </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3031</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3031.html">English Capstone: Literature & Contemporary World </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3034</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3034.html">Advanced Creative Writing </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3037</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3037.html">Comedy </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3039</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3039.html">Jane Austen in Context </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3041</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3041.html">Literary Mobilities - Diasporic/Expatriate Writing </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3046</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3046.html">Narrative </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3047</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3047.html">Contemporary Critical and Cultural Theory </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3060</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3060.html">Film in the Media Landscape </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3061</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3061.html">Video Project </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3062</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3062.html">Aspects of Film History </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3063</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3063.html">Cinemas and Cultures </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3064</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3064.html">Issues in Film Styles and Aesthetics </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3065</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3065.html">Explorations in Contemporary Film Theory: Capstone </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3090</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3090.html">MCT Capstone: Media, Culture, Policy </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3091</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3091.html">Advanced Media Issues </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3092</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3092.html">Media and Transformation in the Asia-Pacific </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3093</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3093.html">Media Power </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3122</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3122.html">TPS Capstone: Program and Repertoire </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3123</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3123.html">Solo Performance Making </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3124</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3124.html">Performance Production 2: Collaborative Making </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3125</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3125.html">Multimedia Performance </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3126</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3126.html">Investigating the Theatrical Past </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3128</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3128.html">Studies in World Performance: Events Effects </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3151</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3151.html">First Nations of the Americas </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3210</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3210.html">Asian Studies Capstone: Key Issues and Debates </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3211</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3211.html">Understanding Indonesia Today </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3212</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3212.html">Powerful India </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3218</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3218.html">Japanese History: Modern Miracles & Mythologies </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3240</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3240.html">Environment and Social Process: Env Stud Capstone </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3241</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3241.html">Environmental Justice </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3242</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3242.html">Environmental History </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3270</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3270.html">Reflecting on Histories and Historians: Capstone </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3281</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3281.html">Religion and Secularism 1700-Present </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3283</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3283.html">Dynasties </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3286</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3286.html">Australian History and its Constructions </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3288</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3288.html">The United States and the Middle East </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3289</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3289.html">Documentary Film and History </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3302</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3302.html">A History of Technology, Consumption & Comfort </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3303</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3303.html">Reason & Revolution in Science: T.S.Kuhn & Beyond </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3360</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3360.html">Philosophy Capstone: Examining Pivotal Texts </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3366</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3366.html">Advanced Moral Theory </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3368</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3368.html">Advanced Social & Political Philosophy </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3372</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3372.html">Contemporary Metaphysics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3373</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3373.html">Contemporary Epistemology </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3375</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3375.html">Hegel and German Idealism </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3450</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3450.html">Advanced Chinese A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3451</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3451.html">Advanced Chinese B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3452</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3452.html">Professional Chinese A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3453</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3453.html">Professional Chinese B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3454</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3454.html">Interpreting between Chinese and English </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3455</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3455.html">Contemporary Chinese Literature </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3458</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3458.html">Chinese Capstone: Re-Visioning China and Chinese </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3480</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3480.html">Advanced French A </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3481</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3481.html">Advanced French B </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3482</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3482.html">Professional French A </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3483</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3483.html">Professional French B </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3485</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3485.html">Revisiting the French Studies Experience: Capstone </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3486</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3486.html">Approaches to Spoken French </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3487</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3487.html">Key French Texts </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3510</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3510.html">Advanced German A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3511</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3511.html">Advanced German B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3570</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3570.html">Advanced Spanish A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3571</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3571.html">Advanced Spanish B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3572</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3572.html">HS Capstone: Re-Visioning the Hispanic World </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3573</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3573.html">Hispanic Fiction into Film</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3574</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3574.html">Topics in Latin(o) American Cinema </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3575</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3575.html">Spanish Popular Culture </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3600</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3600.html">Advanced Indonesian A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3601</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3601.html">Advanced Indonesian B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3630</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3630.html">Advanced Japanese A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3631</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3631.html">Advanced Japanese B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3632</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3632.html">Professional Japanese A </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3633</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3633.html">Professional Japanese B </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3636</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3636.html">Contextualising Japanese: Capstone </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3639</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3639.html">Representations of Japan in Popular Culture</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3640</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3640.html">Japan and Korea: Cultures in Conflict </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3660</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3660.html">Advanced Korean A </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3661</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3661.html">Advanced Korean B </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3663</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3663.html">Professional Korean </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3664</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3664.html">Korean Translation </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3665</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3665.html">Korean Interpreting</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3666</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3666.html">Korean Studies Capstone: Engaging Korea </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3690</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3690.html">Language Universals and Linguistic Typology </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3691</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3691.html">Sociolinguistics </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3692</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3692.html">Current Issues in English Grammar </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3693</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3693.html">Applications in Linguistic Inquiry: Capstone </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3695</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3695.html">Language Ecology and Language Planning </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3750</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3750.html">Development Issues and Management </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3751</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3751.html">Agencies of Development: Capstone </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3754</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3754.html">Social and Community Development </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3780</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3780.html">Germany since 1945 </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3782</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3782.html">Contemporary Europe: Capstone </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3783</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3783.html">Great and Emerging Powers in Contemporary World Politics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3784</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3784.html">Modern Italy since Unification </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3810</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3810.html">IR Capstone: Contemporary Issues </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3811</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3811.html">Regional Dynamics Asia </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3812</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3812.html">Theorising International Political Economy </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3814</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3814.html">Australian Foreign Policy </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3815</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3815.html">Peoples, States & Sovereignty </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3817</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3817.html">The Middle East and International Law </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3841</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3841.html">Politics Capstone: Art of Political Science </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3843</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3843.html">Modern Political Thought </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3846</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3846.html">Prime Ministers & Leadership </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3848</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3848.html">Russian Politics </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3870</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3870.html">Sociology and Anthropology Capstone </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3871</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3871.html">Forensic Sociology </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3872</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3872.html">Media Publics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3874</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3874.html">Culture and Human Rights </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3875</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3875.html">Researching Culture & Society </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3876</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3876.html">Experience, Illness, Healing </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS3900</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3900.html">Feminist Studies: History & Other Disciplines </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS3991</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS3991.html">Faculty of Arts & Social Sciences Stream Capstone </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4100</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4100.html">A: Research Methods in Humanities: Theory & Practice </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4140</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4140.html">A: Key Concepts in History and Society </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4141</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4141.html">A: What is Philosophy? BA Honours A </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4160</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4160.html">A: Doing Qualitative Research Honours Workshop </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4200</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4200.html">B: Advanced Literary Studies </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4201</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4201.html">B: Uses of Theory Honours (Research) </A></TD>
+								<TD class="evenTableCell" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4220</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4220.html">B: Special Topics in Cultural Studies </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4221</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4221.html">B: Textual Analysis in a Cross-Cultural Context </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4222</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4222.html">B: Special Topics in Linguistics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4240</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4240.html">B: Issues in Science, Society and the Environment </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4241</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4241.html">B: Theories, Methods, Practices, Representations </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4242</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4242.html">B: Researching, Writing, Historiography </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4243</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4243.html">B: Philosophy Honours I </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4244</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4244.html">B: Philosophy Honours II </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4260</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4260.html">B: Politics, Law and Justice: The Problem of Free Speech </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4261</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4261.html">B: Global Civil Society and Global Governance </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4262</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4262.html">B: Contemporary Currents in Social Theory </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4264</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4264.html">B: Honours Thesis Workshop </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4265</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4265.html">B: Doing Qualitative Research Honours Workshop </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4600</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4600.html">Dance Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4601</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4601.html">Dance Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4602</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4602.html">Dance Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4603</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4603.html">Dance Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4604</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4604.html">English Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4605</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4605.html">English Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4606</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4606.html">English Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4607</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4607.html">English Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4608</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4608.html">Film Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4609</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4609.html">Film Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4610</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4610.html">Film Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4611</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4611.html">Film Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4612</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4612.html">Media, Culture & Technology Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4613</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4613.html">Media, Culture & Technology Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4614</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4614.html">Media, Culture & Technology Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4615</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4615.html">Media, Culture & Technology Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4616</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4616.html">Theatre & Performance Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4617</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4617.html">Theatre & Performance Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4618</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4618.html">Theatre & Performance Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4619</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4619.html">Theatre & Performance Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4700</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4700.html">Environmental Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4701</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4701.html">Environmental Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4702</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4702.html">Environmental Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4703</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4703.html">Environmental Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4704</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4704.html">History Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4705</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4705.html">History Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4706</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4706.html">History Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4707</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4707.html">History Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4712</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4712.html">Philosophy Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4713</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4713.html">Philosophy Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4714</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4714.html">Philosophy Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4715</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4715.html">Philosophy Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4810</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4810.html">Asian Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4811</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4811.html">Asian Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4812</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4812.html">Asian Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4813</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4813.html">Asian Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4814</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4814.html">Chinese Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4815</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4815.html">Chinese Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4816</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4816.html">Chinese Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4817</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4817.html">Chinese Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4818</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4818.html">French Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4819</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4819.html">French Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4820</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4820.html">French Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4821</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4821.html">French Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4822</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4822.html">Hispanic Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4823</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4823.html">Hispanic Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4824</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4824.html">Hispanic Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4825</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4825.html">Hispanic Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4826</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4826.html">Japanese Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4827</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4827.html">Japanese Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4828</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4828.html">Japanese Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4829</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4829.html">Japanese Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4830</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4830.html">Korean Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4831</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4831.html">Korean Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4832</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4832.html">Korean Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4833</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4833.html">Korean Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4834</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4834.html">Linguistics Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4835</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4835.html">Linguistics Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4836</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4836.html">Linguistics Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4837</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4837.html">Linguistics Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4838</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4838.html">German Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4839</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4839.html">German Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4840</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4840.html">German Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4841</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4841.html">German Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4900</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4900.html">Development Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4901</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4901.html">Development Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4902</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4902.html">Development Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4903</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4903.html">Development Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4904</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4904.html">European Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4905</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4905.html">European Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4906</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4906.html">European Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4907</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4907.html">European Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4908</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4908.html">Globalisation Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4909</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4909.html">Globalisation Studies Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4910</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4910.html">Globalisation Studies Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4911</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4911.html">Globalisation Studies Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4912</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4912.html">International Relations Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4913</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4913.html">International Relations Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4914</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4914.html">International Relations Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4915</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4915.html">International Relations Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4916</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4916.html">Politics Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4917</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4917.html">Politics Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4918</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4918.html">Politics Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4919</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4919.html">Politics Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4920</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4920.html">Sociology and Anthropology Honours </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4921</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4921.html">Sociology and Anthropology Honours </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS4922</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4922.html">Sociology and Anthropology Honours </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS4923</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS4923.html">Sociology and Anthropology Honours </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS6702</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS6702.html">French Discourse Studies </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS6703</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS6703.html">The French Speaking World </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS6704</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS6704.html">Approaches to Japanese Discourse Analysis </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS6710</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS6710.html">Europe between the Wars</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS6711</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS6711.html">Confronting the Past in Postwar Europe </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS6715</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS6715.html">Contemporary Japanese Literature </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ARTS6721</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS6721.html">Hispanic Linguistics </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ARTS6731</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ARTS6731.html">Freedom, Alienation and Modern Life </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0001</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0001.html">Principles of Australian Taxation Law </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0002</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0002.html">Computer Information Systems </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0003</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0003.html">Microeconomics and the Australian Tax System </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0004</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0004.html">Framework of Commercial Law </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0005</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0005.html">Accounting 1 </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0006</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0006.html">Tax Administrative Law </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0009</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0009.html">Law of Companies, Trusts and Partnerships </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0010</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0010.html">Accounting 2 </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0011</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0011.html">Macroeconomics, Government and the Economy </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0013</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0013.html">Taxation of Companies, Trusts and Partnerships </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0015</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0015.html">Intermediate Financial Accounting </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0016</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0016.html">Critical Perspectives and Ethics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0053</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0053.html">Accounting for Complex Structures and Instruments </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0057</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0057.html">Business Finance </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0058</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0058.html">Quantitative Analysis </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0059</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0059.html">Management Accounting </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0060</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0060.html">Auditing and Assurance Services </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0603</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0603.html">Taxation of Corporations </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0605</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0605.html">Taxation of Trusts </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0606</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0606.html">Tax Administration Process </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0607</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0607.html">Taxation of Corporate Finance </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0610</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0610.html">Taxation of Superannuation </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0611</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0611.html">Taxation of Capital Gains </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0619</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0619.html">Current Issues in Tax Administration </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0620</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0620.html">Principles of Australian International Tax </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0622</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0622.html">GST:Design and Structure </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0623</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0623.html">Principles of GST Law </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0625</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0625.html">Taxation of Employee Remuneration </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0626</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0626.html">Taxation and Investment Regulation in China </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0628</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0628.html">International Tax: Design and Structure </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0631</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0631.html">Principles of Revenue Administration </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0640</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0640.html">Self Managed Superannuation Funds Law </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATAX0641</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0641.html">Comparative Tax Systems </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATAX0655</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATAX0655.html">Taxation of Property Transactions </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATSI1011</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATSI1011.html">Indigenous Australia</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATSI1012</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATSI1012.html">Aboriginal Sydney</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATSI2001</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATSI2001.html">Aboriginal Australia: The Pre-Colonial and Colonial Experience</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATSI2002</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATSI2002.html">Aboriginal Australia: The Post-Colonial Experience</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATSI2003</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATSI2003.html">Indigenous Material Culture-Objects &their journey </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATSI2004</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATSI2004.html">Popular Culture of Indigenous Australia </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATSI3001</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATSI3001.html">Colonisation and Indigenous Identity Formation</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATSI3002</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATSI3002.html">Indigenous Australia: Gendered Identities</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATSI3003</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATSI3003.html">Cultural Heritage Management</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">ATSI3005</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATSI3005.html">Whiteness Beyond Colour: Identity and Difference</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">ATSI3008</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/ATSI3008.html">Navigating the Boundaries</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVEN1310</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVEN1310.html">Basic Mechanics</A></TD>
+								<TD class="" align="left">3</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVEN1910</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVEN1910.html">Introduction to Aircraft Engineering</A></TD>
+								<TD class="evenTableCell" align="left">3</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVEN1920</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVEN1920.html">Introduction to Aircraft Engineering </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVEN2230</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVEN2230.html">Aviation Technologies </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVEN2930</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVEN2930.html">Aviation Technologies 3</A></TD>
+								<TD class="" align="left">3</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVEN3220</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVEN3220.html">Aviation Engineering Experimentation 2</A></TD>
+								<TD class="evenTableCell" align="left">3</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVEN3230</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVEN3230.html">Aviation Systems and Avionics</A></TD>
+								<TD class="" align="left">3</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVEN3420</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVEN3420.html">Aircraft Maintenance</A></TD>
+								<TD class="evenTableCell" align="left">3</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVEN3430</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVEN3430.html">Aviation Maintenance Technologies and Operations </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVEN3610</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVEN3610.html">Aerodynamics, Stability and Control</A></TD>
+								<TD class="evenTableCell" align="left">3</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVEN3710</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVEN3710.html">Aircraft Propulsion</A></TD>
+								<TD class="" align="left">3</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVEN3940</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVEN3940.html">Aircraft Evaluation and Design Appraisal </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVIA1002</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA1002.html">Flying Training 1 </A></TD>
+								<TD class="" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVIA1321</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA1321.html">Fundamentals of Aviation</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVIA1401</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA1401.html">Introduction to Human Factors </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVIA1901</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA1901.html">Aviation Transport Economics </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVIA2004</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA2004.html">Flight Operations 2</A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVIA2013</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA2013.html">Flight Operations 1 </A></TD>
+								<TD class="evenTableCell" align="left">18</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVIA2014</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA2014.html">Flight Operations 2 </A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVIA2401</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA2401.html">Aviation Law and Regulations </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVIA2501</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA2501.html">Airline Marketing Strategies </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVIA2601</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA2601.html">Aviation Operations Research </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVIA2701</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA2701.html">Aviation Security and Airport Management </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVIA2801</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA2801.html">Regional and General Aviation </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVIA2910</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA2910.html">Air Transport:Environment, Logistics and Economics </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVIA3004</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA3004.html">Advanced Flying Training</A></TD>
+								<TD class="evenTableCell" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVIA3013</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA3013.html">Workplace Safety</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVIA3014</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA3014.html">Flight Operations 3 </A></TD>
+								<TD class="evenTableCell" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVIA3101</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA3101.html">Airline Management</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVIA3201</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA3201.html">Airline Resource Management</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVIA3301</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA3301.html">Simulation Application and Air Traffic Manangement </A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVIA3401</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA3401.html">Aviation Safety and Resource Management </A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVIA3710</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA3710.html">Aviation Research Methods</A></TD>
+								<TD class="" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVIA3851</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA3851.html">Airport Management 2</A></TD>
+								<TD class="evenTableCell" align="left">6</TD>
+							</TR>
+
+							<TR>
+								<TD class="" align="left">AVIA4001</TD>
+								<TD class=""><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA4001.html">Aviation Honours - Full Time</A></TD>
+								<TD class="" align="left">24</TD>
+							</TR>
+
+							<TR>
+								<TD class="evenTableCell" align="left">AVIA4002</TD>
+								<TD class="evenTableCell"><A href="http://www.handbook.unsw.edu.au/undergraduate/courses/2012/AVIA4002.html">Aviation Honours - Part Time</A></TD>
+								<TD class="evenTableCell" align="left">12</TD>
+							</TR>
+
+							<TR>
+								<TD abbr="" colspan="3" class="bottomBufferBlue">&nbsp;</TD>
+							</TR>
+						</TABLE>
+						<BR><DIV align="right" class="topBut"><A href="#GOTOP"><IMG src="http://www.handbook.unsw.edu.au/images/top_button2008.gif" alt="Goto top of page" width="37" height="15" border="0"></A></DIV><BR><BR>
+					</TD>
+				</TR>
+			</TABLE>
+</DIV>
+</DIV>
+</DIV>
+<!--- End Content Zone --->
+</BODY>
+</HTML>
